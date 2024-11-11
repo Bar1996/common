@@ -7,7 +7,7 @@ interface Color {
 const color: Color = {
   red: 20,
   green: 20,
-  blue: 30,
+  blue: 40,
 };
 
 console.log(color);
